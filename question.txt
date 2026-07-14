@@ -1,0 +1,549 @@
+Q.1 Starting or restarting a computer is called ______ the system.
+A. Booting
+B. Loading
+C. Starting
+D. Formatting
+
+
+Q.2 ________ are used to store data and programs.
+A. Files
+B. Folders
+C. Menus
+D. Icons
+
+
+Q.3 __________ is unprocessed facts.
+A. Data
+B. Information
+C. Knowledge
+D. Programs
+
+
+Q.4 Windows XP is an example of an:
+A. Operating system
+B. Application software
+C. Utility
+D. Browser
+
+
+Q.5 Every computer must have an operating system.
+A. True
+B. False
+
+
+Q.6 Systems software includes all of the following except:
+A. Desktop Publishing
+B. Operating Systems
+C. Device Drivers
+D. Utilities
+
+
+Q.7 Which of the following is an Operating system?
+A. Windows
+B. Linux
+C. Mac OS
+D. All of these
+
+
+Q.8 A__________ is a concentric ring on a disk.
+A. Track
+B. Sector
+C. Cylinder
+D. Cluster
+
+
+Q.9 Anti-virus programs are meant to guard a computer from invasion of virus programs.
+A. True
+B. False
+
+
+Q.10 __________is background software that helps the computer manage its own internal resources.
+A. System software
+B. Application software
+C. Utility
+D. Browser
+
+
+Q.11 __________ is the ability of the operating system to run more than one application at a time.
+A. Multitasking
+B. Multiprocessing
+C. Multi-user
+D. Booting
+
+
+Q.12 Troubleshooting programs recognize both hardware and software problems and try to correct them as far as possible.
+A. True
+B. False
+
+
+Q.13 Operating systems are programs that manage resources, provide user interfaces, and run applications.
+A. True
+B. False
+
+
+Q.14 Utilities are also known as service programs.
+A. True
+B. False
+
+
+Q.15 Another name for software is:
+A. Programs
+B. Hardware
+C. Procedures
+D. Data
+
+
+Q.16 _________ consists of the step-by-step instructions that tell the computer how to do its work.
+A. Programs
+B. Procedures
+C. Data
+D. Hardware
+
+
+Q.17 _________ specify rules or guidelines for computer operations.
+A. Procedures
+B. Programs
+C. Data
+D. Manuals
+
+
+Q.18 Which program reduces the size of files so that they occupy lesser space on the disk?
+A. File Compression
+B. Disk Cleanup
+C. Backup
+D. Disk Defragmenter
+
+
+Q.19 Processing data creates ________.
+A. Information
+B. Data
+C. Programs
+D. Procedures
+
+
+Q.20 Disk Defragmenter is a utility program that locates and eliminates unnecessary fragments and rearranges files to optimize operations.
+A. True
+B. False
+
+
+Q.21 Each track is divided into wedge-shaped sections called sectors.
+A. True
+B. False
+
+
+Q.22 A complete computer system is made up of user, procedures, hardware, software, and data.
+A. True
+B. False
+
+
+Q.23 Which of the following components are used to store data?
+A. Memory
+B. CPU
+C. Printer
+D. Keyboard
+
+
+Q.24 This type of software is designed to help you be more productive in performing tasks, and is widely used in nearly every discipline.
+A. Application software
+B. System software
+C. Utility
+D. Device Driver
+
+
+Q.25 Eight bits make up a byte.
+A. True
+B. False
+
+
+Q.26 The_________ displays a list of commands that can be used to gain access to information, change hardware settings, and shut down.
+A. Start Button
+B. Taskbar
+C. Control Panel
+D. Desktop
+
+
+Q.27 Output of an image on the monitor screen is often called soft copy.
+A. True
+B. False
+
+
+Q.28 Word processing, electronic spreadsheets, database managers, and graphics programs are all grouped under:
+A. Application software
+B. System software
+C. Utilities
+D. Operating systems
+
+
+Q.29 Which of the following is the unit of computer memory?
+A. Kilo Bytes
+B. Meter
+C. Amperes
+D. Celsius
+
+
+Q.30 Capacity of a storage device is usually measured in terms of Meter.
+A. True
+B. False
+
+
+Q.31 From the given list, which all are the types of memory chips?
+A. CMOS, ROM, RAM
+B. Hard disk
+C. CD-ROM
+D. USB
+
+
+Q.32 Minicomputers are also known as:
+A. Midrange computers
+B. Mainframes
+C. Supercomputers
+D. Microcomputers
+
+
+Q.33 Microprocessor is often called as CPU.
+A. True
+B. False
+
+
+Q.34 Which of the following is the primary memory?
+A. RAM
+B. Hard Disk
+C. CD-ROM
+D. Floppy Disk
+
+
+Q.35 Which of the following would not be considered a portable computer?
+A. A Desktop Computer
+B. Laptop
+C. PDA
+D. Tablet
+
+
+Q.36 A PDA is a small portable computer.
+A. True
+B. False
+
+
+Q.37 Another name for the keyboard, mouse, monitor, and system unit is:
+A. Hardware
+B. Software
+C. Firmware
+D. Shareware
+
+
+Q.38 Random Access Memory (RAM) is ________ type of memory.
+A. Temporary
+B. Permanent
+C. Non-volatile
+D. Secondary
+
+
+Q.39 ______ is also known as the system cabinet or chassis.
+A. System Unit
+B. Motherboard
+C. CPU
+D. Hard Disk
+
+
+Q.40 _______ are graphical objects used to represent and open commonly used applications.
+A. Icons
+B. Menus
+C. Taskbars
+D. Windows
+
+
+Q.41 GUI stands for:
+A. Graphical User Interface
+B. General User Interval
+C. Global Unique Identifier
+D. Graphic Universal Interface
+
+
+Q.42 Which of the following devices is used to play fast games on a computer?
+A. Joystick
+B. Keyboard
+C. Mouse
+D. Scanner
+
+
+Q.43 The Keyboard's keys that are labeled F1, F2 and so on are called:
+A. Function keys
+B. Numeric keys
+C. Navigation keys
+D. Toggle keys
+
+
+Q.44 The Keyboard's keys that have arrows on them are called:
+A. Navigation keys
+B. Function keys
+C. Numeric keys
+D. Toggle keys
+
+
+Q.45 Which of the following keys is not a toggle key?
+A. Control
+B. Caps Lock
+C. Num Lock
+D. Scroll Lock
+
+
+Q.46 Two important components of the system unit are the microprocessor and memory.
+A. True
+B. False
+
+
+Q.47 _________ improves hard-disk performance by anticipating data needs.
+A. Disk Caching
+B. Disk Cleanup
+C. Defragmentation
+D. Compression
+
+
+Q.48 _______ is a 16-bit code designed to support international languages like Chinese and Japanese.
+A. Unicode
+B. ASCII
+C. EBCDIC
+D. Binary
+
+
+Q.49 The primary purpose of software is to turn data into:
+A. Information
+B. Programs
+C. Hardware
+D. Procedures
+
+
+Q.50 OCR is used to translate printed text to machine-readable code.
+A. True
+B. False
+
+
+Q.51 The system board is also known as the main board or motherboard.
+A. True
+B. False
+
+
+Q.52 Following are the file compression programs, EXCEPT:
+A. RAID
+B. WinZip
+C. WinRAR
+D. PKZIP
+
+
+Q.53 The internal memory of the computer is present on the motherboard in the form of chips.
+A. True
+B. False
+
+
+Q.54 The external memory of the computer is present on the motherboard in the form of Slots.
+A. True
+B. False
+
+
+Q.55 Trackball is not a pointing device.
+A. True
+B. False
+
+
+Q.56 Data that is stored in RAM is only there while the power is on.
+A. True
+B. False
+
+
+Q.57 ________ utility identifies non-essential files on the hard disk and erases them when permitted.
+A. Disk Cleanup
+B. Disk Defragmenter
+C. Backup
+D. File Compression
+
+
+Q.58 Which of these operating systems does not have a graphical user interface?
+A. MS-DOS
+B. Windows 10
+C. macOS
+D. Linux
+
+
+Q.59 A CD-R stands for CD-Recordable.
+A. True
+B. False
+
+
+Q.60 Input devices translate what people understand into a form that computers can process.
+A. True
+B. False
+
+
+Q.61 Method of working of a flatbed scanner is mostly similar to a photocopying machine.
+A. True
+B. False
+
+
+Q.62 Notebook system units are often called as:
+A. Laptops
+B. Desktops
+C. PDAs
+D. Mainframes
+
+
+Q.63 ASCII, EBCDIC, and Unicode are binary coding schemes.
+A. True
+B. False
+
+
+Q.64 A ________ is a light-sensitive pen-like device.
+A. Light pen
+B. Stylus
+C. Trackball
+D. Joystick
+
+
+Q.65 MICR can be used to read data from checks in a bank.
+A. True
+B. False
+
+
+Q.66 Output of an image on the monitor screen is often called hard copy.
+A. True
+B. False
+
+
+Q.67 Which of the following devices is not a pointing type of device?
+A. Keyboard
+B. Mouse
+C. Trackball
+D. Touchpad
+
+
+Q.68 Headphone is a typical output device.
+A. True
+B. False
+
+
+Q.69 Primary function of a common keyboard in a computer is to play music like a piano.
+A. True
+B. False
+
+
+Q.70 Instead of function keys, which keys are used to create shortcuts?
+A. Combination keys
+B. Numeric keys
+C. Toggle keys
+D. Navigation keys
+
+
+Q.71 Output of an image through a printer is often called hard copy.
+A. True
+B. False
+
+
+Q.72 The keys labeled 0-9 on the keyboard are called:
+A. Numeric keys
+B. Function keys
+C. Navigation keys
+D. Toggle keys
+
+
+Q.73 Touch surface is a pointing device.
+A. True
+B. False
+
+
+Q.74 The easiest way to access any part of the screen in the Windows operating system is using the:
+A. Mouse
+B. Keyboard
+C. Scanner
+D. Printer
+
+
+Q.75 Plotters are used to produce special purpose graphics.
+A. True
+B. False
+
+
+Q.76 The mouse pointer seen on the desktop is also called as:
+A. Arrow pointer
+B. I-beam
+C. Hand selector
+D. Busy circle
+
+
+Q.77 The keyboard keys like Caps Lock that turn a feature on or off are called:
+A. Toggle Keys
+B. Combination Keys
+C. Function Keys
+D. Numeric Keys
+
+
+Q.78 Dot matrix printers make irritating noise.
+A. True
+B. False
+
+
+Q.79 Printers can be connected to a computer for producing output on a paper.
+A. True
+B. False
+
+
+Q.80 Passive and Active matrix are two basic types of:
+A. Flat Panel monitors
+B. Printers
+C. Scanners
+D. Keyboards
+
+
+Q.81 Secondary storage is nonvolatile.
+A. True
+B. False
+
+
+Q.82 3.5 inch floppy disk capacity is:
+A. 1.44 MB
+B. 1.44 GB
+C. 720 KB
+D. 100 MB
+
+
+Q.83 What is the full form of ROM?
+A. Read-only memory
+B. Random-only memory
+C. Real-on memory
+D. Run-on memory
+
+
+Q.84 Which of the following is a storage device?
+A. Hard Disk
+B. Monitor
+C. Keyboard
+D. Mouse
+
+
+Q.85 ________ are removable storage devices used to store massive amounts of information.
+A. Hard-disk packs
+B. Floppy disks
+C. RAM chips
+D. Smart cards
+
+
+Q.86 DVD means:
+A. Digital Versatile Disk
+B. Digital Video Data
+C. Direct Video Disk
+D. Dynamic Volatile Device
+
+
+Q.87 A CD-ROM stands for:
+A. Compact Disc Read-Only Memory
+B. Compact Drive Read-Only Memory
+C. Computer Disc Random Memory
+D. Compatible Disk Read-Only Memory
+
+
+Q.88 Super disks have a 120 MB or 240 MB capacity.
+A. True
+B. False
+
+
+Q.89 A track on a disk is one of the many circular ring-shaped areas where data is written magnetically.
+A. True
+B. False
